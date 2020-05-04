@@ -96,6 +96,8 @@ Icon
 
 # Generated files
 .idea/**/contentModel.xml
+.history/
+Z.code-workspace
 
 # Sensitive or high-churn files
 .idea/**/dataSources/

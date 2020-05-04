@@ -1,0 +1,23 @@
+{
+  "name": "ls",
+  "version": "1.0.0",
+  "description": "z/OS Automation NPM package",
+  "main": "balance.js",
+  "scripts": {
+    "compile:scripts": "tsc --pretty",
+    "hello": "node ./scripts/helloworld",
+    "get:balance": "node ./scripts/balance",
+    "zos-end": "node ./scripts/zos-end",
+    "zos:automation": "npm run compile:scripts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arnelbaloyo/zOS-automation.git"
+  },
+  "author": "acb",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arnelbaloyo/zOS-automation/issues"
+  },
+  "homepage": "https://github.com/arnelbaloyo/zOS-automation#readme"
+}

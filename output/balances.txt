@@ -1,0 +1,233 @@
+{
+    "zos-account-balances-zzcservOperationResponse": {
+        "RESPONSE-HEADER": {
+            "XMRESHDR": {
+                "responseHeader": {
+                    "code": 0
+                }
+            }
+        },
+        "Success": {
+            "accountBalances": {
+                "accountBalance": [
+                    {
+                        "balanceDetails": {
+                            "ledgerBalance": {
+                                "amount": 0,
+                                "decimalPlaces": 0,
+                                "currency": "NZD"
+                            },
+                            "currentBalance": {
+                                "amount": 0,
+                                "decimalPlaces": 0,
+                                "currency": "NZD"
+                            },
+                            "availableBalance": {
+                                "amount": 0,
+                                "decimalPlaces": 0,
+                                "currency": "NZD"
+                            }
+                        },
+                        "accountDetails": {
+                            "productCode": "CONT",
+                            "productDescription": "CONTENTS"
+                        },
+                        "account": {
+                            "number": "0000000XXXXX6747004",
+                            "type": "G"
+                        }
+                    },
+                    {
+                        "balanceDetails": {
+                            "ledgerBalance": {
+                                "amount": 0,
+                                "decimalPlaces": 0,
+                                "currency": "NZD"
+                            },
+                            "currentBalance": {
+                                "amount": 0,
+                                "decimalPlaces": 0,
+                                "currency": "NZD"
+                            },
+                            "availableBalance": {
+                                "amount": 0,
+                                "decimalPlaces": 0,
+                                "currency": "NZD"
+                            }
+                        },
+                        "accountDetails": {
+                            "productCode": "HOMA",
+                            "productDescription": "HOME SUM"
+                        },
+                        "account": {
+                            "number": "0000000XXXXX6747005",
+                            "type": "G"
+                        }
+                    },
+                    {
+                        "balanceDetails": {
+                            "ledgerBalance": {
+                                "amount": 0,
+                                "decimalPlaces": 0,
+                                "currency": "NZD"
+                            },
+                            "currentBalance": {
+                                "amount": 0,
+                                "decimalPlaces": 0,
+                                "currency": "NZD"
+                            },
+                            "availableBalance": {
+                                "amount": 0,
+                                "decimalPlaces": 0,
+                                "currency": "NZD"
+                            }
+                        },
+                        "accountDetails": {
+                            "productCode": "VEHI",
+                            "productDescription": "VEHICLE"
+                        },
+                        "account": {
+                            "number": "0000000XXXXX6747006",
+                            "type": "G"
+                        }
+                    },
+                    {
+                        "balanceDetails": {
+                            "ledgerBalance": {
+                                "amount": 0,
+                                "decimalPlaces": 0,
+                                "currency": "NZD"
+                            },
+                            "currentBalance": {
+                                "amount": 0,
+                                "decimalPlaces": 0,
+                                "currency": "NZD"
+                            },
+                            "availableBalance": {
+                                "amount": 0,
+                                "decimalPlaces": 0,
+                                "currency": "NZD"
+                            }
+                        },
+                        "accountDetails": {
+                            "productCode": "HOMA",
+                            "productDescription": "HOME SUM"
+                        },
+                        "account": {
+                            "number": "0000000XXXXX6747007",
+                            "type": "G"
+                        }
+                    },
+                    {
+                        "balanceDetails": {
+                            "ledgerBalance": {
+                                "amount": 0,
+                                "decimalPlaces": 0,
+                                "currency": "NZD"
+                            },
+                            "currentBalance": {
+                                "amount": 0,
+                                "decimalPlaces": 0,
+                                "currency": "NZD"
+                            },
+                            "availableBalance": {
+                                "amount": 0,
+                                "decimalPlaces": 0,
+                                "currency": "NZD"
+                            }
+                        },
+                        "accountDetails": {
+                            "productCode": "LIFE",
+                            "productDescription": "LIFECARE"
+                        },
+                        "account": {
+                            "number": "0000000XXXXX9300011",
+                            "type": "L"
+                        }
+                    },
+                    {
+                        "balanceDetails": {
+                            "ledgerBalance": {
+                                "amount": 0,
+                                "decimalPlaces": 0,
+                                "currency": "NZD"
+                            },
+                            "currentBalance": {
+                                "amount": 0,
+                                "decimalPlaces": 0,
+                                "currency": "NZD"
+                            },
+                            "availableBalance": {
+                                "amount": 0,
+                                "decimalPlaces": 0,
+                                "currency": "NZD"
+                            }
+                        },
+                        "accountDetails": {
+                            "productCode": "CGA",
+                            "productDescription": "TotalMoney"
+                        },
+                        "account": {
+                            "number": "0000000XXXXX6526083",
+                            "type": "C"
+                        }
+                    },
+                    {
+                        "balanceDetails": {
+                            "ledgerBalance": {
+                                "amount": 0,
+                                "decimalPlaces": 0,
+                                "currency": "NZD"
+                            },
+                            "currentBalance": {
+                                "amount": 0,
+                                "decimalPlaces": 0,
+                                "currency": "NZD"
+                            },
+                            "availableBalance": {
+                                "amount": 0,
+                                "decimalPlaces": 0,
+                                "currency": "NZD"
+                            }
+                        },
+                        "accountDetails": {
+                            "productCode": "CGA",
+                            "productDescription": "TotalMoney"
+                        },
+                        "account": {
+                            "number": "0000000XXXXX6606068",
+                            "type": "C"
+                        }
+                    },
+                    {
+                        "balanceDetails": {
+                            "ledgerBalance": {
+                                "amount": 0,
+                                "decimalPlaces": 0,
+                                "currency": "NZD"
+                            },
+                            "currentBalance": {
+                                "amount": 0,
+                                "decimalPlaces": 0,
+                                "currency": "NZD"
+                            },
+                            "availableBalance": {
+                                "amount": 0,
+                                "decimalPlaces": 0,
+                                "currency": "NZD"
+                            }
+                        },
+                        "accountDetails": {
+                            "productCode": "RCR",
+                            "productDescription": "Rapid Repay Home Loan"
+                        },
+                        "account": {
+                            "number": "0000000XXXXX6606083",
+                            "type": "C"
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

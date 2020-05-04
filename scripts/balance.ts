@@ -6,11 +6,11 @@ let data = '';
 const options = {
   hostname: 'ipo2',
   port: 3880,
-  path: '/zos-account-balances-api/v1/PCIB/156873764',
+  path: '/zos-account-balances-api/v1/PCIB/xxxxxxxxxxx',
   method: 'GET',
   headers: {
     'Content-Type': 'application/json',
-    'Authorization': 'Basic SVM0MjY6YWNiMDUyMA=='
+    'Authorization': '============='
   }
 }
  

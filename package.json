@@ -5,7 +5,7 @@
   "main": "balance.js",
   "scripts": {
     "compile:scripts": "tsc --pretty",
-    "hello": "node ./scripts/helloworld",
+    "zos-start": "node ./scripts/zos-start",
     "get:balance": "node ./scripts/balance",
     "zos-end": "node ./scripts/zos-end",
 
@@ -21,7 +21,7 @@
     "asm:lnk": "zowe jobs submit ds \"IS426.ZOS.JCLLIB(ASMHELLO)\" --directory \"./output\" --zosmf-p zIPO2",
     "asm:run": "zowe jobs submit ds \"IS426.ZOS.JCLLIB(CALLASM)\" --directory \"./output\" --zosmf-p zIPO2",
 
-    "zos:automation": "npm run compile:scripts && npm run hello && npm run del:bal && npm run add:ndvr && npm run get:balance && npm run upload:member && npm run allocate:seq && npm run upload:seq && npm run run:zjava && npm run dl:uss-in && npm run dl:zos-out && npm run asm:lnk && npm run asm:run && npm run zos-end"
+    "zos:automation": "npm run compile:scripts && npm run zos-start && npm run del:bal && npm run add:ndvr && npm run get:balance && npm run upload:member && npm run allocate:seq && npm run upload:seq && npm run run:zjava && npm run dl:uss-in && npm run dl:zos-out && npm run asm:lnk && npm run asm:run && npm run zos-end"
   },
   "repository": {
     "type": "git",

@@ -20,7 +20,7 @@ This automation will perform the following z/OS tasks automatically (eg. in a si
 
 
 ### Prerequisites
-- [Zowe-CLI](https://code.visualstudio.com/docs/typescript/typescript-compiling)
+- [Zowe-CLI](https://docs.zowe.org/v1-1-x/user-guide/cli-installcli.html)
 - [TypeScript](https://code.visualstudio.com/docs/typescript/typescript-compiling)
 - [NPM - Creating package.json](https://docs.npmjs.com/creating-node-js-modules)
 

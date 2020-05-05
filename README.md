@@ -1,6 +1,6 @@
-# zOS-automation
+# zOS Mainframe Automation
 
-Automation with z/OS mainframe using Zowe-CLI, NPM Scripts, and TypeScript
+A demo on automation with z/OS mainframe using Zowe-CLI, NPM Scripts, and TypeScript
   
 
 

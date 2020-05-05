@@ -5,7 +5,7 @@ A demo on automation with z/OS mainframe using Zowe-CLI, NPM Scripts, and TypeSc
 
 
 ### Automation Flow
-This automation will perform the following z/OS tasks automatically (eg. in a single click process:
+This automation will perform the following z/OS tasks automatically (eg. in a single click process)
 
 1. Compile and Add of CICS/Cobol program EICIACC into Endevor (G).
 2. After successful compile, Run our z/OS API to execute our CICS/COBOL program to return account details and balances.

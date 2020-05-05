@@ -3,7 +3,8 @@
 Automation with z/OS mainframe using Zowe-CLI, NPM Scripts, and TypeScript
   
 
-## z/OS Automation Flow
+
+### Automation Flow
 This automation will perform the following z/OS tasks automatically:
 
 1. Compile and Add of CICS/Cobol program EICIACC into Endevor (G).
@@ -16,7 +17,9 @@ This automation will perform the following z/OS tasks automatically:
 6. Download a USS file from z/OS UNIX server into our local machine
 7. Compile and Run a z/OS Assembler program.
 
-## Prerequisites
+
+
+### Prerequisites
 - [Zowe-CLI]([https://code.visualstudio.com/docs/typescript/typescript-compiling](https://code.visualstudio.com/docs/typescript/typescript-compiling))
 - [TypeScript]([https://code.visualstudio.com/docs/typescript/typescript-compiling](https://code.visualstudio.com/docs/typescript/typescript-compiling))
 - [NPM - Creating package.json]([https://docs.npmjs.com/creating-node-js-modules](https://docs.npmjs.com/creating-node-js-modules))

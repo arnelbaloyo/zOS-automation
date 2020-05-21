@@ -30,7 +30,7 @@ This automation will perform the following z/OS tasks automatically (eg. in a si
 
 2. After successful installation of zowe-cli. Create a zowe zosmf profile by entering the below command on your terminal. Please replace 'yourProfile', 'yourMainframeID', and 'yourPassword' with your own mainframe credentials. In my setup, i've used the profile name 'zIPO2' as my profile name. You may use the same name (zIPO2) so you wont need to change the scripts in the succeeding steps.
 
-$ zowe profiles create zosmf-profile {yourProfile} --host 10.xx.xx.xx --port xxxx --user {yourMainframeUserID} --password {yourPassword}
+    $ zowe profiles create zosmf-profile {yourProfile} --host 10.xx.xx.xx --port xxxx --user {yourMainframeUserID} --password     {yourPassword}
 
 
 3. Install Visual Studio Code. In the demo, i've used Visual Studio Code as my editor to write the Npm scripts and TypeScripts. This page assumes you have some basic knowledge of using VSC eg. navigating, opening terminals, etc. If not, let me know and i can walk you to the steps. We won't be really using VSC much apart from browsing and editing the scripts. You can also use any editor of your choice.
@@ -38,13 +38,13 @@ $ zowe profiles create zosmf-profile {yourProfile} --host 10.xx.xx.xx --port xxx
 
 4. Install TypeScript compiler and type definitions for Node.js. On your terminal,
 
-npm install -g typescript
-npm install --save @types/node
+  npm install -g typescript
+  npm install --save @types/node
 
 
 5. GitHub Clone Setup
-To get started quickly, simply clone my gitHub repository for the z/OS Automation project. On your local machine's terminal,
+   To get started quickly, simply clone my gitHub repository for the z/OS Automation project. On your local machine's terminal,
 
-$ git clone https://github.com/arnelbaloyo/zOS-automation
+  $ git clone https://github.com/arnelbaloyo/zOS-automation
 
 6. Run the Scripts!

@@ -42,8 +42,8 @@ This automation will perform the following z/OS tasks automatically (eg. in a si
  > npm install --save @types/node
 
 
-5. GitHub Clone Setup. To get started quickly, simply clone my gitHub repository for the z/OS Automation project. On your local machine's terminal,
+5. GitHub Clone Setup. To get started quickly, simply clone my gitHub repository for the z/OS Automation project. On your local machine's terminal.
 
  > $ git clone https://github.com/arnelbaloyo/zOS-automation
 
-6. Run the Scripts!
+6. Update the zowe commands on the package.json file with your preferred zowe command and Run the Scripts!

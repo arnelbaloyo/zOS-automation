@@ -39,6 +39,7 @@ This automation will perform the following z/OS tasks automatically (eg. in a si
 4. Install TypeScript compiler and type definitions for Node.js. On your terminal,
 
  > npm install -g typescript
+ 
  > npm install --save @types/node
 
 

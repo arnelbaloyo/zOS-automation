@@ -54,7 +54,7 @@ This automation will perform the following z/OS tasks automatically (eg. in a si
   
     
 #### Contact: Arnel Baloyo  
-> LinkedIn: https://www.linkedin.com/in/arnel-baloyo-14896788/. 
-> Email (P): abaloyo@yahoo.com. 
-> Email (W): Arnel_Baloyo@bnz.co.nz. 
+- LinkedIn: https://www.linkedin.com/in/arnel-baloyo-14896788  
+- Email (P): abaloyo@yahoo.com  
+- Email (W): Arnel_Baloyo@bnz.co.nz. 
     

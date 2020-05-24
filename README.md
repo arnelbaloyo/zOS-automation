@@ -47,7 +47,9 @@ This automation will perform the following z/OS tasks automatically (eg. in a si
 
  > $ git clone https://github.com/arnelbaloyo/zOS-automation
 
-6. Update the zowe commands on the package.json file with your preferred zowe command and Run the Scripts!
+6. Update the zowe commands on the package.json file with your preferred zowe command and Run the Scripts! 
 
 
-##### Demo (Video) of the above z/OS Automation in action: [https://www.youtube.com/watch?v=6nf5-o28E3M](https://www.youtube.com/watch?v=6nf5-o28E3M)
+
+
+#### Demo (Video) of the above z/OS Automation in action: [https://www.youtube.com/watch?v=6nf5-o28E3M](https://www.youtube.com/watch?v=6nf5-o28E3M)
